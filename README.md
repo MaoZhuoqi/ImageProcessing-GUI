@@ -224,11 +224,11 @@ end
 
 ### 程序初始化启动：
 
-!https://github.com/MaoZhuoqi/ImageProcessing-GUI/blob/master/photo/Snipaste_2020-03-20_13-35-48.png
+!(https://github.com/MaoZhuoqi/ImageProcessing-GUI/blob/master/photo/Snipaste_2020-03-20_13-35-48.png)
 
 ### 载入图像
 
-点击按钮!https://github.com/MaoZhuoqi/ImageProcessing-GUI/blob/master/photo/Snipaste_2020-03-20_13-51-00.png实现以下代码操作：
+点击按钮!(https://github.com/MaoZhuoqi/ImageProcessing-GUI/blob/master/photo/Snipaste_2020-03-20_13-51-00.png)实现以下代码操作：
 
 ```matlab
         % Button pushed function: Button
