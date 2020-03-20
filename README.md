@@ -224,11 +224,11 @@ end
 
 ### 程序初始化启动：
 
-!(https://github.com/MaoZhuoqi/ImageProcessing-GUI/blob/master/photo/Snipaste_2020-03-20_13-35-48.png)
+![Snipaste_2020-03-20_13-35-48](https://github.com/MaoZhuoqi/ImageProcessing-GUI/blob/master/photo/Snipaste_2020-03-20_13-35-48.png)
 
 ### 载入图像
 
-点击按钮!(https://github.com/MaoZhuoqi/ImageProcessing-GUI/blob/master/photo/Snipaste_2020-03-20_13-51-00.png)实现以下代码操作：
+点击按钮![Snipaste_2020-03-20_13-51-00](https://github.com/MaoZhuoqi/ImageProcessing-GUI/blob/master/photo/Snipaste_2020-03-20_13-51-00.png)实现以下代码操作：
 
 ```matlab
         % Button pushed function: Button
@@ -241,11 +241,11 @@ end
 
 界面变为如下：
 
-!https://github.com/MaoZhuoqi/ImageProcessing-GUI/blob/master/photo/Snipaste_2020-03-20_13-36-06.png
+![Snipaste_2020-03-20_13-36-06](https://github.com/MaoZhuoqi/ImageProcessing-GUI/blob/master/photo/Snipaste_2020-03-20_13-36-06.png)
 
 ## 黑白图像
 
-点击按钮!https://github.com/MaoZhuoqi/ImageProcessing-GUI/blob/master/photo/Snipaste_2020-03-20_13-52-26.png实现将图片转为黑白操作。代码如下：
+点击按钮![Snipaste_2020-03-20_13-52-26](https://github.com/MaoZhuoqi/ImageProcessing-GUI/blob/master/photo/Snipaste_2020-03-20_13-52-26.png)实现将图片转为黑白操作。代码如下：
 
 ```matlab
 % Button pushed function: Button_2
@@ -267,7 +267,8 @@ end
 
 界面变为如下：
 
-!https://github.com/MaoZhuoqi/ImageProcessing-GUI/blob/master/photo/Snipaste_2020-03-20_13-36-14.png
+![Snipaste_2020-03-20_13-36-14](https://github.com/MaoZhuoqi/ImageProcessing-GUI/blob/master/photo/Snipaste_2020-03-20_13-36-14.png)
+
 ## 缩放原图
 
 ### 缩放设置
@@ -276,7 +277,7 @@ end
 
 在`缩放设置`中可以单独调整图片横向和纵向的缩放倍数，同时也可以通过选中复选框`锁定比例`使缩放的比例相同。
 
-!https://github.com/MaoZhuoqi/ImageProcessing-GUI/blob/master/photo/Snipaste_2020-03-20_14-13-43.png
+![Snipaste_2020-03-20_14-13-43](https://github.com/MaoZhuoqi/ImageProcessing-GUI/blob/master/photo/Snipaste_2020-03-20_14-13-43.png)
 
 其设置实现代码如下：
 
@@ -307,7 +308,7 @@ end
 
 ### 缩放原图
 
-点击按钮!https://github.com/MaoZhuoqi/ImageProcessing-GUI/blob/master/photo/Snipaste_2020-03-20_14-06-01.png实现缩放功能，代码如下：
+点击按钮![Snipaste_2020-03-20_14-06-01](https://github.com/MaoZhuoqi/ImageProcessing-GUI/blob/master/photo/Snipaste_2020-03-20_14-06-01.png)实现缩放功能，代码如下：
 
 ```matlab
 function Button_3Pushed(app, event)
@@ -327,10 +328,11 @@ function Button_3Pushed(app, event)
 
 界面变为如下：
 
-!https://github.com/MaoZhuoqi/ImageProcessing-GUI/blob/master/photo/Snipaste_2020-03-20_13-37-12.png
+![Snipaste_2020-03-20_13-37-12](https://github.com/MaoZhuoqi/ImageProcessing-GUI/blob/master/photo/Snipaste_2020-03-20_13-37-12.png)
+
 ## 保存图片
 
-点击按钮!https://github.com/MaoZhuoqi/ImageProcessing-GUI/blob/master/photo/Snipaste_2020-03-20_14-06-42.png即可将图片以JPEG格式进行保存。实现代码如下：
+点击按钮![Snipaste_2020-03-20_14-06-42](https://github.com/MaoZhuoqi/ImageProcessing-GUI/blob/master/photo/Snipaste_2020-03-20_14-06-42.png)即可将图片以JPEG格式进行保存。实现代码如下：
 
 ```matlab
 % Button pushed function: Button_4
